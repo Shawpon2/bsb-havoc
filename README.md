@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/Shawpon2/bsb-havoc/1770169913749.png" width="180" style="border-radius:50%; border:5px solid #0EA5E9;" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/BSB-HAVOC-ff1a1a?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/ENGINE-Asynchronous-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PERFORMANCE-High_Throughput-orange?style=for-the-badge" />
@@ -143,59 +146,3 @@ bsb-havoc https://staging.example.com -c 1000 -d 120
 ### Ramp-Up Mode
 ```bash
 bsb-havoc https://api.example.com -c 3000 -d 180 --ramp
-```
-
-### Export Results
-```bash
-bsb-havoc https://test.example.com -c 2000 -d 90 --output results.json
-```
-
----
-
-## 📊 Reports
-
-After each run, BSB Havoc provides a summary like:
-
-```
-Total Requests:     150,000
-Successful:         148,320 (98.88%)
-Failed:             1,680
-Average Latency:    175ms
-P95 Latency:        290ms
-Requests/sec:       2,500
-```
-
-JSON reports can be integrated into dashboards or CI pipelines.
-
----
-
-## ⚠️ Safety & Legal
-
-BSB Havoc is intended **only for authorized testing** of systems you own or have permission to evaluate.
-
-Unauthorized load testing may violate laws or service agreements.  
-The developers assume no responsibility for misuse.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from developers and performance engineers.
-
-1. Fork the repository  
-2. Create a feature branch  
-3. Commit changes  
-4. Submit a Pull Request  
-
----
-
-## 📜 License
-
-Released under the **MIT License**. See the LICENSE file for details.
-
----
-
-<p align="center">
-  <strong>BSB HAVOC</strong><br>
-  High-Performance Load Testing Framework
-</p>
