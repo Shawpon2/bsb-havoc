@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Shawpon2/bsb-havoc/1770169913749.png" width="180" style="border-radius:50%; border:5px solid #0EA5E9;" />
+  <img src="https://github.com/Shawpon2/bsb-havoc/blob/main/1770169913749.png" width="180" style="border-radius:50%; border:5px solid #0EA5E9;" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/BSB-HAVOC-ff1a1a?style=for-the-badge&logo=apachekafka&logoColor=white" />
